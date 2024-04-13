@@ -7,5 +7,7 @@ public class concatenarCadenas {
         var j = 4;
         System.out.println(j + i);
         System.out.println(usuer + i);
+        System.out.println(usuer + i + j); //n contexto cadena
+        System.out.println(usuer + " " + (i + j));
     }
 }
